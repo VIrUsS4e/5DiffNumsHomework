@@ -45,6 +45,7 @@ namespace _5DifferentNumbers
                     }
                 }
             }
+            Console.WriteLine("Bye");
         }
     }
 }
